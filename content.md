@@ -1,5 +1,4 @@
-Content in Jupyter Book
+Ingenieria en ciencias de la Computación
 =======================
 
-There are many ways to write content in Jupyter Book. This short section
-covers a few tips for how to do so.
+Esta es la nueva malla de la carrera Ciencias de la computación. Aquí podemos observar los avances del estudiante Frank Saca
